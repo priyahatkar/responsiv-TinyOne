@@ -1,0 +1,33 @@
+:root{
+    --pri-color: #fcdb00;
+    --sec-color: #010101;
+    --tri-color: #313841;
+    --white-color: #ffffff;
+}
+.heroImg .priHeading{
+    color: var(--sec-color);
+    font-size: 32px;
+    font-weight: bold;
+    margin: 7rem 0 2rem;
+}
+.secHeading{
+    color: var(--tri-color);
+    font-size: 2rem;
+    margin-bottom: 2.5rem;
+}
+.para{
+    color:#555555;
+    font-size: 1.6rem;
+}
+.heroImg .mb-60{
+    margin-bottom: 6rem;
+}
+/* .heroImg .imgsec{
+    margin-left: 6.5rem;
+} */
+.mb-80{
+    margin-bottom: 8rem;
+} 
+
+
+
